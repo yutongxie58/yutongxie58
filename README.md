@@ -28,9 +28,10 @@ I thrive in the world of programming and technology, always eager to apply my sk
 - Collaborated on research regarding overfitting in training neural networks under the mentorship of Lauren Cote.
 - Presented findings and solutions to peers.
 
-### Employee Management System, C++
-- Designed and developed a menu-driven program that allows users to add, update, delete, and search records of employees working in an organization.
-- Demonstrated proficiency in file I/O, data structures, and algorithms to ensure the system's reliability and efficiency.
+### Speech Competition System, C++
+- Developed a C++ program to manage speech competition data efficiently.
+- Implemented a menu-driven system for starting competitions, displaying records, and clearing data.
+- Utilized C++ features and STL for effective program design.
 
 ### Udemy Python for Data Science and Machine Learning Bootcamp
 - Successfully completed a rigorous bootcamp, enhancing my skills in Python, data analysis, and machine learning techniques.
